@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoolTimer</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="default_textview_value">00:30</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="purchase">Purchase</string>
+</resources>
